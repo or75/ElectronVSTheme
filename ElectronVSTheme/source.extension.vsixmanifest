@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" ?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="ElectronVSTheme.c819f92e-3769-46fb-9766-76f018412a1d" Version="1.0" Language="en-US" Publisher="Влад Суровцев" />
+        <Identity Id="ElectronVSTheme.c819f92e-3769-46fb-9766-76f018412a1d" Version="1.0" Language="ru-RU" Publisher="Влад Суровцев" />
         <DisplayName>ElectronVSTheme</DisplayName>
         <Description xml:space="preserve">Electron Visual Studio Theme (from vscode kuscamara.electron)</Description>
         <Tags>theme,visual studio,electron</Tags>
